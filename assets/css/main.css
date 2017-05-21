@@ -3416,10 +3416,10 @@
 		background-attachment: fixed;
 	/* Banner 	background-position: center;*/
 		background-repeat: no-repeat;
-		background-size: 1350px 560px;
+		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 110vh;
+		height: 60vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
 		min-height: 22em;
